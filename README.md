@@ -1,5 +1,7 @@
 # data_cleaning_and_exploration_using_mysql
 
+Note: These two projects are listed in my CV & resume as "**Data Cleaning and Exploratory Data Analysis in MySQL**".
+
 Data Cleaning Project:
 
 Covered in this project:
